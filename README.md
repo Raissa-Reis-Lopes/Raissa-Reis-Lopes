@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raissa-Reis-Lopes
-- 👀 I’m interested in learning how programming
+- 👀 I’m interested in learning programming
 - 🌱 I’m currently learning html, css and java
 - 💞️ I’m looking to collaborate with other students
 - 📫 How to reach me raissa.vilemon@gmail.com or florescer.blooming@gmail.com
