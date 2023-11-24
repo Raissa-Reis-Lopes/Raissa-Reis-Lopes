@@ -28,7 +28,6 @@
 <a href="https://t.me/RaissaVilemon" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 <br>
-  ![Snake animation](https://github.com/Raissa-Reis-Lopes/Raissa-Reis-Lopes/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
