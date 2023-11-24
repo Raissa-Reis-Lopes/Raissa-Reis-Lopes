@@ -14,20 +14,19 @@
   <img src="https://skillicons.dev/icons?i=html,js,css,java,python,mysql,jquery,react,bootstrap,vscode,github,figma,git,typescript" />
 </div>
 <br>
-<div>
+<div align="center">
   <a href="https://github.com/Raissa-Reis-Lopes">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Raissa-Reis-Lopes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raissa-Reis-Lopes&layout=compact&langs_count=7&theme=react" />
-
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
  <br>
 <br>
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/raissa-reis-lopes-00706a23a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 <a href = "mailto:raissa.vilemon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://wa.me/5511968294197" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://t.me/RaissaVilemon" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<br>
 </div>
 <br>
 
