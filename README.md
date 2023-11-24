@@ -20,8 +20,10 @@
  
     
 </div>
-  <a href="https://www.linkedin.com/in/raissa-reis-lopes-00706a23a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<br>
+<a href="https://www.linkedin.com/in/raissa-reis-lopes-00706a23a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br>
+
   ![Snake animation](https://github.com/Raissa-Reis-Lopes/Raissa-Reis-Lopes/blob/output/github-contribution-grid-snake.svg)
  
 </div>
