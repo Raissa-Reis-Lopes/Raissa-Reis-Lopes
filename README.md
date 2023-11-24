@@ -1,4 +1,18 @@
-<h1> Hi! My name is Raissa. </h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Raissa!;" />
+</h1>
+
+<div  align="center" >
+  - 🔭 Atualmente estou em busca de vagas de estágio ...
+  <br>
+- 🌱 Estou estudando desenvolvimento web, ciências econômicas, análise e desenvolvimento de sistemas! Buscando me aprimorar a cada dia! 🌱
+</div>
+
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<br>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=html,js,css,java,python,mysql,jquery,react,bootstrap,vscode,github,figma,git,typescript" />
+</div>
 
 <div>
   <a href="https://github.com/Raissa-Reis-Lopes">
