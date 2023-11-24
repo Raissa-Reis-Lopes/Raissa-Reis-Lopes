@@ -26,5 +26,5 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=ELLEN2121&theme=react)](https://github.com/Raissa-Reis-Lopes/Raissa-Reis-Lopes)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Raissa-Reis-Lopes&repo=Raissa-Reis-Lopes&theme=react)](https://github.com/Raissa-Reis-Lopes/Raissa-Reis-Lopes)
 
