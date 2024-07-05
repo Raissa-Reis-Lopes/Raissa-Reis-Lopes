@@ -11,7 +11,7 @@
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas em desenvolvimento ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=html,js,css,java,python,mysql,jquery,react,bootstrap,vscode,github,figma,git,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,js,css,java,python,mysql,jquery,react,bootstrap,tailwind,vscode,github,figma,git,typescript" />
 </div>
 <br>
 <div align="center">
