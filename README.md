@@ -3,7 +3,6 @@
 </h1>
 
 <div  align="center" >
-  - 🔭 Atualmente estou em busca de vagas de estágio ...
   <br>
 - 🌱 Estou estudando desenvolvimento web, ciências econômicas, análise e desenvolvimento de sistemas! Buscando me aprimorar a cada dia! 🌱
 </div>
@@ -11,7 +10,7 @@
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas em desenvolvimento ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=html,js,css,ruby,python,mysql,jquery,react,bootstrap,tailwind,vscode,github,figma,git,typescript,java" />
+  <img src="https://skillicons.dev/icons?i=html,js,css,ts,docker,ruby,python,mysql,jquery,react,bootstrap,tailwind,vscode,github,figma,git,java" />
 </div>
 <br>
 <div align="center">
